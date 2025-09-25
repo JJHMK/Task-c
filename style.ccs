@@ -1,0 +1,34 @@
+/*
+Author: Jasper Myllymäki
+Date: 2025-09-25
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+img {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+audio, video {
+  display: block;
+  margin: 1rem auto;
+}
